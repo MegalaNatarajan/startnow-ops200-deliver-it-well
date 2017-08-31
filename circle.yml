@@ -2,7 +2,7 @@ deployment:
   prod:
     branch: master
     heroku:
-      appname: megalainla@gmail.com
+      appname: nm-change-calculator
 machine:
   node:
     version: 8.1.4

@@ -2,7 +2,7 @@ deployment:
   prod:
     branch: master
     heroku:
-      appname: MegalaNatarajan
+      appname: megalainla@gmail.com
 machine:
   node:
     version: 8.1.4
